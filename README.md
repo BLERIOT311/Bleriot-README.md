@@ -1,4 +1,4 @@
-<img width="1428" height="2048" alt="image" src="https://github.com/user-attachments/assets/678fe9f5-25ba-466a-9872-c4fe4c0d6151" /># Bleriot-README.md
+# Bleriot-README.md
 # Hi 👋, I'm Blriot
 
 Computer Science student passionate about:
